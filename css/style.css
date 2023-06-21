@@ -1,0 +1,14 @@
+*{
+    box-sizing: content-box;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+
+
+.remove_blog{
+    cursor: pointer;
+}
